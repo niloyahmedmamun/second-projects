@@ -1,0 +1,70 @@
+* { margin: 0px; padding: 0px; }
+a { text-decoration: none; }
+span{font-size: 16px;}
+body { font-family: Arial, Helvetica, sans-serif; }
+header { border-bottom: 1px solid rgba(70, 62, 62, 0.247); }
+.container { width: 1170px; background: white; margin: auto; overflow: hidden; }
+img { max-width: 100%; }
+.logo { width: 150px; float: left; }
+.button-top { width: 172px; float: right; margin-top: 15px; margin-right: 78px; overflow: hidden; display: inline-block; }
+#butn1 { width: 59px; float: left; color: rgb(255, 255, 255); background: rgb(44, 170, 5); border: none; border-radius: 5px; padding: 6px; }
+#butn2 { width: 75px; float: right; background: rgb(44, 170, 5); border: none; border-radius: 5px; padding: 7px; color: white; }
+.login_details { width: 400px; float: left; margin: 150px 92px; }
+.login-form { width: 298px; float: right; margin-top: 75px; padding: 31px 26px 26px 17px; border-radius: 10px; margin-right: 95px; margin-bottom: 59px; }
+.login-form { box-shadow: rgba(0, 0, 1, 0.14) 1px 1px 10px 1px; }
+.signup_button { background: rgba(241, 232, 232, 0.61); border: none; border-radius: 29px; padding: 11px 44px; margin-right: 7px; }
+p { font-size: 10px; }
+.loginWrapper { overflow: hidden; }
+.click { margin: auto; }
+.details { background: rgb(3, 63, 101); color: white; overflow: hidden; }
+.title { border-bottom: 1px solid rgb(189, 176, 176); margin: auto; width: 125px; }
+.title h1 { text-align: center; display: inline-block; font-size: 20px; }
+input#signButtn { margin: -3px 107px; padding: 8px; border-radius: 10px; border: none; background: rgb(44, 170, 5); color: white; }
+#bigButton { background: rgb(66, 134, 245); color: white; padding: 15px 76px; border-radius: 10px; margin-left: 36px; margin-top: -22px; border: none; }
+.icon { padding: 0px 112px; margin-top: 32px; font-size: 20px; }
+i.fa-brands.fa-youtube { color: white; }
+.subText { margin-top: 15px; }
+footer { background: rgb(3, 63, 101); }
+.copy h5{color: white;font-size:10px;float: left;margin-right: 449px;}
+div#google h3 { text-align: center; font-size: 12px; }
+.blog { width: 161px; float: left; background: rgb(3, 63, 101); padding: 28px 65px; margin: 0px; }
+.fotWrapper { overflow: hidden; }
+.blog h4 { font-size: 13px; }
+.fotTitle { text-align: center; margin-top: 98px; }
+* { margin: 0px; padding: 0px; }
+a { text-decoration: none; }
+body { font-family: Arial, Helvetica, sans-serif; }
+header { border-bottom: 1px solid rgba(70, 62, 62, 0.247); }
+.container { width: 1170px; background: white; margin: auto; overflow: hidden; }
+img { max-width: 100%; }
+.logo { width: 150px; float: left; }
+.button-top { width: 172px; float: right; margin-top: 15px; margin-right: 78px; overflow: hidden; display: inline-block; }
+#butn1 { width: 59px; float: left; color: rgb(255, 255, 255); background: rgb(44, 170, 5); border: none; border-radius: 5px; padding: 6px; }
+#butn2 { width: 75px; float: right; background: rgb(44, 170, 5); border: none; border-radius: 5px; padding: 7px; color: white; }
+.login_details { width: 400px; float: left; margin: 150px 92px; }
+.login-form { width: 298px; float: right; margin-top: 75px; padding: 31px 26px 26px 17px; border-radius: 10px; margin-right: 95px; margin-bottom: 59px; }
+.login-form { box-shadow: rgba(0, 0, 1, 0.14) 1px 1px 10px 1px; }
+.signup_button { background: rgba(241, 232, 232, 0.61); border: none; border-radius: 29px; padding: 11px 44px; margin-right: 7px; }
+p { font-size: 10px; }
+.loginWrapper { overflow: hidden; }
+.click { margin: auto; }
+.details { background: rgb(3, 63, 101); color: white;  overflow: hidden;border-bottom: 1zx solid white;}
+.title { border-bottom: 1px solid rgb(189, 176, 176); margin: auto; width: 125px; }
+.title h1 { text-align: center; display: inline-block; font-size: 20px; }
+input#signButtn { margin: -3px 107px; padding: 8px; border-radius: 10px; border: none; background: rgb(44, 170, 5); color: white; }
+#bigButton { background: rgb(66, 134, 245); color: white; padding: 15px 76px; border-radius: 10px; margin-left: 36px; margin-top: -22px; border: none; }
+.subText { margin-top: 15px; }
+footer { background: rgb(3, 63, 101); overflow: hidden; }
+.copy {center;background: rgb(3, 63, 101);padding: 14px;float: left;/* width: 296px; */overflow: hidden;}
+div#google h3 { text-align: center; font-size: 12px; }
+.blog {width: 164px;float: left;background: rgb(3, 63, 101);padding: 24px 64px;margin: 0px;line-height: 34px;overflow: hidden;}
+.blog a{color: white;}.fotWrapper {overflow: hidden;border-bottom: 1px solid white;}
+.blog h4 { font-size: 13px; }
+.fotTitle { text-align: center; margin-top: 98px; }
+.icon a { color: white; }
+.icon {padding: 1px;margin: 20px 516px;font-size: 20px;}
+.blogList {overflow: hidden;margin-bottom: 96x;}
+.fotIcon{float: right;width: 200px;margin: 12px -14px;/* color: white; */}
+.icon a {
+    padding: 5px;
+}
